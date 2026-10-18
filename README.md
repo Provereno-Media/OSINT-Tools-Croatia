@@ -2,7 +2,7 @@
 <img src="https://flagcdn.com/w320/hr.png" alt="Croatia_FLAG"/>
 A list of OSINT resources and tools that may be useful to you when conducting investigations related to Croatia. Most of the resources and tools has versions in Croatian and English. Many Croatian state portals block automated clients (robots.txt or web application firewalls) but work normally in a regular browser. Several e-Građani services, including the beneficial ownership register, require login through NIAS, the national identification system (Croatian e-ID or an eIDAS-recognised foreign eID). Queries to official registers may be logged.
 
-**Last Updated:** 2026-10-12
+![Last updated](https://img.shields.io/github/last-commit/Provereno-Media/OSINT-Tools-Croatia?label=Last%20updated)
 
 ## Contributions
 Feel free to join this project — [OSINT For Countries V2.0](https://github.com/Provereno-Media/OSINT-for-countries-V2.0)
